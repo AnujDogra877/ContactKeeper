@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://Anuj2685:Anuj2685@myapp01.v2y8x.mongodb.net/ContentKeeper?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://Anuj2685:Anuj2685@myapp01.v2y8x.mongodb.net/ContentKeeper?retryWrites=true&w=majority",
+    "JWTSecret":"AnUj123456"
 }
