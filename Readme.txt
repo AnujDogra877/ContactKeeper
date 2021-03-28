@@ -7,6 +7,7 @@ Enhancements:
     - Added the CSS for the Home page ststic contact listing
     - Added the Dummy Data from the Form and displayed in listing.
     - Deleted the Contact from the Listing.
+    - Working on Clear/Edit Contact
 Bugs:
 
 Installation Steps:
