@@ -8,6 +8,7 @@ Enhancements:
     - Added the Dummy Data from the Form and displayed in listing.
     - Deleted the Contact from the Listing.
     - Working on Clear/Edit Contact
+    - Edit the Contact and displayed it in from & Added the Clear Button
 Bugs:
 
 Installation Steps:
