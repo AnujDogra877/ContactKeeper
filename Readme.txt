@@ -9,7 +9,7 @@ Enhancements:
     - Deleted the Contact from the Listing.
     - Working on Clear/Edit Contact
     - Edit the Contact and displayed it in from & Added the Clear Button
-    - Update the COntact from the form
+    - Update the Contact from the form
 Bugs:
 
 Installation Steps:

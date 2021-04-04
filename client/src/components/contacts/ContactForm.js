@@ -39,12 +39,7 @@ const ContactForm = () => {
         }else{
             updateContact(contact);
         }
-        setContact({
-            name: '',
-            email: '',
-            phone: '',
-            type: 'personal'
-        });
+        clearForm();
     }
     return (
         <form onSubmit={onSubmit}>
