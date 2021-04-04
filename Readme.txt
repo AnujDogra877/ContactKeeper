@@ -10,6 +10,7 @@ Enhancements:
     - Working on Clear/Edit Contact
     - Edit the Contact and displayed it in from & Added the Clear Button
     - Update the Contact from the form
+    - Contact Filter Implemented & fade animation implemented
 Bugs:
 
 Installation Steps:
