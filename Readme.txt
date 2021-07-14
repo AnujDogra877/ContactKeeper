@@ -11,6 +11,7 @@ Enhancements:
     - Edit the Contact and displayed it in from & Added the Clear Button
     - Update the Contact from the form
     - Contact Filter Implemented & fade animation implemented
+    - Added Login and Registration Forms
 Bugs:
 
 Installation Steps:
