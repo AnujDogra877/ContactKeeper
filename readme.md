@@ -1,10 +1,10 @@
-# Project Name: Contact Keeper
+## Project Name: Contact Keeper
 
-## Release Number:
+### Release Number:
 
-## Release Date:
+### Release Date:
 
-# Enhancements
+## Enhancements
 
      Displayed the Static Contacts in listing on Home Page.
     * Added the CSS for the Home page ststic contact listing
@@ -18,9 +18,11 @@
 
 ### Installation Steps:
 
-    $ npm install
-    $ cd client
-    npm install
-    npm run dev
+```nodejs
+   $ npm install
+   $ cd client
+   npm install
+   npm run dev
+```
 
-    open the URL in browcer http://localhost:3000 or http://127.0.0.1:3000
+    open the URL in browcer [localhost](http://localhost:3000)  or [localhost](http://127.0.0.1:3000)
